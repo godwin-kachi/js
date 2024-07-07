@@ -1,0 +1,25 @@
+.todo-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 1px solid #3fe422;
+}
+
+.todo-items .state {
+    list-style: none;
+}
+
+.items {
+    list-style-type:decimal;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.controllers {
+    text-align: right;
+}
+    
